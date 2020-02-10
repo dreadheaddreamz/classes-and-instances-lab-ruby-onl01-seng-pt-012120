@@ -1,6 +1,6 @@
 class Dog
-  dog_1 = fido
-  dog_2 = snoopy
-  dog_3 = lassie
+  dog1 = fido
+  dog2 = snoopy
+  dog3 = lassie
   
 end
